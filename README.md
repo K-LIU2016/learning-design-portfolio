@@ -7,6 +7,9 @@
 MA Digital Teaching and Learning · University of Nottingham<br>
 诺丁汉大学数字教学与学习硕士
 
+Selected coursework and research bringing together learning science, design and AI. Each piece starts with a real learner in a real classroom.<br>
+精选课程作业与研究方向：学习科学 × 设计 × AI。每一篇都从一个真实课堂里的真实学习者出发。
+
 **From a learning difficulty to a design that can be explained, made and checked.**<br>
 **从一个学习困难出发，走向能够被解释、被制作、被检验的设计。**
 
@@ -50,8 +53,8 @@ flowchart LR
 
 [Read the paper / 阅读论文](papers/01_Year7-Chemistry-Learning-Analysis_EDUC4029.docx)
 
-**Question / 问题** · Why is the particulate nature of matter difficult for an 11-year-old, and what support could make an invisible model learnable?<br>
-**Design move / 设计动作** · Connect cognition, constructivism and metacognition to conceptual-change activities and multimedia explanations.<br>
+**Question / 问题** · Why is the particulate nature of matter difficult for an 11-year-old to grasp, and what support might help?<br>
+**Design move / 设计动作** · Draw on cognition, constructivism and metacognition to propose practical learning support for a Key Stage 3 lesson.<br>
 **关键词** · conceptual change · misconceptions · multimedia learning · 概念转变 · 迷思概念 · 多媒体学习
 
 ### 02 · Supermarket Challenge · Research Proposal · 「超市大挑战」研究提案
@@ -59,15 +62,15 @@ flowchart LR
 [Read the proposal / 阅读提案](papers/02_Supermarket-Challenge_Research-Proposal_EDUC4032.docx)
 
 **Question / 问题** · How can a vocabulary game make practice purposeful rather than decorative?<br>
-**Design move / 设计动作** · Use Self-Determination Theory and Flow to choose mechanics that support autonomy, competence and sustained attention, then test the design through DBR.<br>
+**Design move / 设计动作** · Propose Supermarket Challenge as a vocabulary game informed by self-determination theory and flow theory, with mechanics chosen to support motivation rather than add decoration; test the design through DBR.<br>
 **关键词** · gamification · self-determination theory · flow · design-based research · 游戏化 · 自我决定理论 · 心流 · 设计型研究
 
 ### 03 · Makerspaces & AI · ISLS 2027 short paper · 创客空间与 AI
 
 [Read the blinded version / 阅读双盲版](papers/03_Makerspace-and-AI_ISLS2027-SHORT-PAPER-BLINDED.md)
 
-**Question / 问题** · How does a member-governed makerspace negotiate the place of AI?<br>
-**Design move / 设计动作** · Trace governance, mutual witnessing and bounded assistance: AI may help, while verification and responsibility remain human.<br>
+**Question / 问题** · How does a makerspace run by its members in the UK make room for AI?<br>
+**Design move / 设计动作** · Examine governance, mutual witnessing and assistance with clear limits: members welcome AI support while keeping responsibility and verification in human hands.<br>
 **关键词** · makerspace · commons governance · AI-mediated practices · informal learning · 创客空间 · 公共资源治理 · AI 中介实践 · 非正式学习
 
 ### 04 · Project Thamus · Critical thinking and AI · 批判性思维与 AI
@@ -125,6 +128,11 @@ The prototype turns a concrete learning difficulty into a reviewable design. It 
 
 → [Course design / 课程设计](https://github.com/K-LIU2016/learning-infrastructure/blob/main/docs/first-course.md) · [Generated deliverables / 生成成果](https://github.com/K-LIU2016/learning-infrastructure/blob/main/docs/showcase.md) · [Architecture / 架构](https://github.com/K-LIU2016/learning-infrastructure/blob/main/docs/architecture.md)
 
+## Currently · 正在进行
+
+Dissertation: **maker-centred learning** — exploring how making and AI can come together in learning design that supports fairness.<br>
+毕业论文：**创客中心学习**——动手制作与 AI 如何在公平的学习设计中汇合。
+
 ## Evidence and next steps / 证据与下一步
 
 - **Observed / 已观察** · The Learning Infrastructure prototype passed 67 automated tests across four design contexts on 3 November 2026. The checks cover software structure and selected boundaries; they do not establish classroom effectiveness.<br>
@@ -138,9 +146,9 @@ The numbers above describe registered design content and software checks, not eq
 
 以上数字描述的是已注册的设计内容与软件检查，不代表同等强度的证据或已经验证的产品。两篇论文也都明确保留各自的证据边界。
 
-## License / 许可
+## Licence · 许可
 
 [![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-These are the author’s original academic works. Free to read and share with attribution; commercial use requires permission.<br>
+These are the author’s original academic works. You are welcome to read and share them with attribution; commercial use requires permission.<br>
 本作品集为作者原创学术作品：注明出处即可自由阅读与分享，商用需授权。
