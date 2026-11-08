@@ -51,13 +51,12 @@ I turn these questions into clear learning experiences, then ask what the eviden
 - **ISLS 2027 paper under review** · how a member-governed makerspace negotiates the place of AI.
   <br>**ISLS 2027 论文在审** · 成员自治的创客空间如何与 AI 共处。
 
-## Paper archive / 论文入口
+## Papers / 论文
 
-- [Project Thamus · Critical thinking and AI](papers/04_Thamus-Critical-Thinking-and-AI_EDUC4062.md) · [PDF](papers/04_Thamus-Critical-Thinking-and-AI_EDUC4062.pdf)
-  <br>先提问、逐步淡出的 AI 写作支持，保护批判性思维中的 productive struggle。
-- [CollabMakerspace · Collaboration and AI-mediated practice](papers/05_CollabMakerspace-and-AI_ISLS2027.md) · [PDF](papers/05_CollabMakerspace-and-AI_ISLS2027.pdf)
-  <br>从声誉权威、相互见证与选择性吸收 AI，理解成员自治社区如何持续。
-- [Coursework archive · 课程档案](papers/01_Year7-Chemistry-Learning-Analysis_EDUC4029.docx) · [Supermarket Challenge proposal](papers/02_Supermarket-Challenge_Research-Proposal_EDUC4032.docx)
+- [Team HotS · Critical thinking, productive struggle and AI](papers/04_Thamus-Critical-Thinking-and-AI_EDUC4062.md) · [PDF](papers/04_Thamus-Critical-Thinking-and-AI_EDUC4062.pdf)
+  <br>AI、批判性思维与 productive struggle。
+- [ISLS 2027 · Decentralised collaboration and AI-mediated practices](papers/05_CollabMakerspace-and-AI_ISLS2027.md) · [PDF](papers/05_CollabMakerspace-and-AI_ISLS2027.pdf)
+  <br>成员自治创客空间中的协作与 AI 中介实践（在审）。
 
 > **Good learning leaves a trace: a better question, a stronger connection, or the courage to have another go.**<br>
 > **好的学习会留下痕迹：一个更好的问题、一种更牢的连接，或再次尝试的勇气。**
